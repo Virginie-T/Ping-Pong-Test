@@ -1,0 +1,64 @@
+body {
+	background-color: #262626;
+
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: 'Fredericka the Great', cursive;
+	font-size: 60px;
+}
+
+li {
+	color: #FFBFBF;
+	font-family: 'Cabin Sketch', cursive;
+	font-size: 20px;
+	}
+
+.form {
+	font-family: 'Crafty Girls', cursive;
+	color: #FFBFBF;
+	text-shadow: 0px 0px 2px rgba(0, 0, 0, 1);
+	text-align: center;
+	margin-top: 140px;
+}
+
+.number_input {
+	margin-top: 30px;
+	font-family: 'Crafty Girls', cursive;
+}
+
+.button {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	margin-top: 40px;
+	color: white;
+	box-shadow: inset -1px 1px 0px 0px #f29c93;
+	background: center top, #fe1a00 5%, #ce0100 100% ;
+	background-color: #D82E1C;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 25px;
+	border-bottom-left-radius: 0px;
+	border: 1px solid #d83526;
+	font-family: 'Cabin Sketch', cursive;
+	font-size: 22px;
+	font-weight: bold;
+	height: 50px;
+	line-height: 50px;
+	width: 120px;
+	text-decoration: none;
+	text-shadow: -1px -1px 0px #b23e35;
+}
+
+.button:hover {
+	background: center top, #ce0100 5%, #fe1a00 100% ;
+	background-color: #ce0100;
+}
+
+.button:active {
+	position: relative;
+	top: 3px;
+} 
