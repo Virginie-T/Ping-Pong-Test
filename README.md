@@ -6,8 +6,8 @@
 
 ###Description
 
-I realised the "ping pong test" to proof to Epicodus that I was able to follow along with PHP.
-I had to submit it to them for my admission to the PHP session.
+>I realised the "ping pong test" to proof to Epicodus that I was able to follow along with PHP.
+>I had to submit it to them for my admission to the PHP session.
 
 ###Technologies Used
 
@@ -18,7 +18,7 @@ I had to submit it to them for my admission to the PHP session.
 
 ###Setup Instructions
 
->Clone GitHub repository to your local machine.
->Open the *pptest.html* in your web browser.
+1. Clone GitHub repository to your local machine.
+1. Open the *pptest.html* in your web browser.
 
 ####Copyright (c) 2015 Virginie Trubiano
